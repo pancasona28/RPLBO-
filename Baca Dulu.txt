@@ -1,0 +1,12 @@
+URL Untuk Pengunjung 
+
+http://localhost/laundry
+
+===============================
+
+URL Untuk Admin
+
+http://localhost/laundry/panel
+
+username : admin
+password : 123456
